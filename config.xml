@@ -12,7 +12,7 @@
     <access origin="*"/>
     <allow-navigation href="*" />
   
-    <content src="default.aspx"/>
+    <content src="index.html"/>
     <icon src="icon.png"/>
   
     <!-- https://build.phonegap.com/current-support -->
