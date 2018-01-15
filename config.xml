@@ -3,16 +3,16 @@
 <!-- Configuration Start: Please customize following configuration -->
 <widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="phonegap-web-template.pulipuli.info" version="1.0.0">
     
-    <name>布丁布丁吃什麼？</name>
-    <description>這顆布丁是在無聊的世界中找尋樂趣的一種不能吃的食物。喜歡動漫畫、喜歡遊戲、喜歡程式、喜歡跟世間脫節的生活步調中，撰寫blog──布丁布丁吃什麼？ http://blog.pulipuli.info/</description>
-    <author href="http://blog.pulipuli.info" email="pulipuli.chen@gmail.com">布丁布丁吃布丁</author>
+    <name>滿意度調查</name>
+    <description>櫃檯人員滿意度調查</description>
+    <author href="http://try.saotweb.tw/eight/" email="victor@net5s.com">滿意度調查</author>
     <!-- Configuration End -->
   
     <!--  allows access to any external resource. -->
     <access origin="*"/>
     <allow-navigation href="*" />
   
-    <content src="index.html"/>
+    <content src="default.aspx"/>
     <icon src="icon.png"/>
   
     <!-- https://build.phonegap.com/current-support -->
